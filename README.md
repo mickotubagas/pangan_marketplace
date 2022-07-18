@@ -1,16 +1,10 @@
-# pangan_marketplace
+# PANGAN MARKETPLACE APP - TA MICKO TUBAGAS 20190801086
 
-A new Flutter project.
+**Link apk download :**\
+https://drive.google.com/file/d/1qaafEO3VN35VZmkLqtAp7c79XUxOf46P/view?usp=sharing
 
-## Getting Started
+**Link video output :**\
+https://youtu.be/Qp8odQbNj3Y
 
-This project is a starting point for a Flutter application.
+## Screenshoot Output App
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
